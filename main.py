@@ -11,7 +11,7 @@ ROWS = 5
 COLS = 4
 
 # Zaman limiti (saniye cinsinden)
-TIME_LIMIT = 60  # 60 saniye
+TIME_LIMIT = 90  # 60 saniye
 
 # Renkler
 WHITE = (255, 255, 255)
